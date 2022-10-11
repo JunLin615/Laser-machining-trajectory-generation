@@ -29,3 +29,11 @@ README
 ## 注意
 
 图片可以用PPT绘制后用PS缩放，黑色图案边缘为轨迹，在使用本程序识别前，请将图像缩放到1像素=1 um。
+
+## exe下载
+
+链接：https://pan.baidu.com/s/1lSxKDouQ8eAp0OcgXL60sQ 
+提取码：ljj1 
+--来自百度网盘超级会员V4的分享
+
+解压密码：ljj
